@@ -292,3 +292,17 @@ uqmanimationtool.conf
 *.uqm
 
 build/msvs2008/UrQuanMasters\.vcproj\.DESKTOP-TCJIFU9\.seros\.user
+# JSD my additions
+DECtalkMain.zip
+Debug
+build/win32_install/AUTHORS.txt
+build/win32_install/CHANGELOG.txt
+build/win32_install/COPYING.txt
+build/win32_install/MegaMod-README.txt
+build/win32_install/README-SDL.txt
+build/win32_install/UQM-Manual.txt
+build/win32_install/UQM-README.txt
+build/win32_install/dlls.nsi
+build/win32_install/undlls.nsi
+tools/keys/keyjam
+.gitignore
